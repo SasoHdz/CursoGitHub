@@ -54,3 +54,8 @@ body
   background-color: #333;
   color:#DDD;
 }
+
+#logo
+{
+  width: 80px;
+}
